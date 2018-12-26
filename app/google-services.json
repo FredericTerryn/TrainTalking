@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "835156015887",
+    "firebase_url": "https://trainspotter-e6981.firebaseio.com",
+    "project_id": "trainspotter-e6981",
+    "storage_bucket": "trainspotter-e6981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835156015887:android:b960d28761273c90",
+        "android_client_info": {
+          "package_name": "com.personal.frederic.trainspotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835156015887-jcuph707u20ri1nhn3ho3afgq85rot67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSuNs5BRGDZb_ySPHF6nrZdqXpKCo-x8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
